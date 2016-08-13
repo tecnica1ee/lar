@@ -1,2 +1,2 @@
 # lar
-Repo de Lenguajes Tecnologicos y Realidad Aumentada
+Repo de Lenguajes Tecnológicos y Realidad Aumentada
